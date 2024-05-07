@@ -3,10 +3,12 @@
 <h1 align="center">Hi 👋, I'm Arzah Laing</h1>
 <h3 align="center">A data analyst currently based in Montreal, Canada</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/arzah](https://www.datascienceportfol.io/arzah)
+- 👩‍💻 All of my projects are available at [https://www.datascienceportfol.io/arzah](https://www.datascienceportfol.io/arzah)
 
 - 📫 How to reach me **arzahlaing@gmail.com**
-
+  
+- 📝 My [Resume](https://github.com/arzah/Data_Analyst_Portfolio/blob/main/ArzahLaing_Resume.pdf)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arzah-laing-9487421b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/arzah-laing-9487421b7" height="30" width="40" /></a>
