@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **arzahlaing@gmail.com**
   
-- 📝 My [Resume](https://github.com/arzah/Data_Analyst_Portfolio/blob/main/ArzahLaing_Resume.pdf)
+- 📝 My [Resume](https://github.com/arzah/Data_Analyst_Portfolio/blob/f28daf950bf3b4d4340b80e5c5d891df79d13da2/Arzah_Laing_Resume.pdf)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
